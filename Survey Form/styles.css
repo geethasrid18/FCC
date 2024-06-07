@@ -2,20 +2,20 @@ label{
     display:block;
     padding-top:10px;
     }
-    form{
+form{
       width: 60vw;
         max-width: 500px;
         min-width: 300px;
         margin: 0 auto;
         padding-bottom: 2em;
     }
-    fieldset{
+fieldset{
       border:0;
     }
-    h1,p{
+h1,p{
       text-align:center;
     }
-    input[type="text"]{
+input[type="text"]{
       display:block;
     }
     input[type="number"]{
